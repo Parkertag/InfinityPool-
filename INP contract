@@ -2,8 +2,6 @@
  *Submitted for verification at BscScan.com on 2021-08-16
 */
 
-//smart contract developed by snipe.finance
-//contact: info@snipe.finance - t.me/SnipeFinance
 pragma solidity ^0.7.6;
 // SPDX-License-Identifier: Unlicensed
 abstract contract Context {
